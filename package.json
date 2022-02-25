@@ -26,5 +26,8 @@
     "mongodb": "^4.4.0",
     "mongoose": "^5.13.14",
     "morgan": "^1.10.0"
+  },
+  "devDependencies": {
+    "webpack-dev-server": "^4.7.4"
   }
 }
