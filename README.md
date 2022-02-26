@@ -22,6 +22,10 @@ Acceptance Criteria
 - WHEN the user reestablishes an internet connection
 - THEN the deposits or expenses added while they were offline are added to their transaction history and their totals are updated
 
+App Screenshot
+
+![Deployed Heroku Application](/assets/images/yourbudgettracker-pwa-ss.png)
+
 ## Table of Contents
 
 * [Installation](#installation)
