@@ -9,19 +9,6 @@ Giving users a fast and easy way to track their money is important, but allowing
 
 this budget tracker application allows for offline access and functionality. The user will be able to add expenses and deposits to their budget with or without a connection. If the user enters transactions offline, the total should be updated when they're brought back online. At the end, this application is deployed to Heroku using MongdoDB Atlas.
 
-User Story
-- AS AN avid traveler
-- I WANT to be able to track my withdrawals and deposits with or without a data/internet connection
-- SO THAT my account balance is accurate when I am traveling 
-
-
-Acceptance Criteria
-- GIVEN a budget tracker without an internet connection
-- WHEN the user inputs an expense or deposit
-- THEN they will receive a notification that they have added an expense or deposit
-- WHEN the user reestablishes an internet connection
-- THEN the deposits or expenses added while they were offline are added to their transaction history and their totals are updated
-
 Heroku Deployed Application Screenshot
 
 ![Deployed Heroku Application](/assets/images/yourbudgettracker-pwa-ss.png)
